@@ -60,7 +60,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="No3Mc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=No3Mc&show_icons=true&hide_border=true" />
+  <img align="left" alt="No3Mc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=No3Mc" />
 
 
   <img align="left" alt="No3Mc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=No3Mc&show_icons=true&hide_border=true" />
