@@ -44,8 +44,8 @@
 
   :zap: My GitHub Stats
 
-  <img align="center" alt="No3Mc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=No3Mc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  ![TitaniumLB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitaniumLB6571&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  <img align="center" alt="No3Mc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=No3MC&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<!-- https://github-readme-stats.vercel.app/api?username=No3Mc -->
 
 
   <img align="center" alt="No3Mc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=No3Mc&show_icons=true&hide_border=true" />
