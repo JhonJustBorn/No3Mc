@@ -56,6 +56,6 @@
 
 [twitter]: https://twitter.com/Derp_Rulez
 [youtube]: https://www.youtube.com/channel/UCKAVnPG_6U-CaHtC4pS6F0g?sub_confirmation=1
-[instagram]: https://www.instagram.com/no3pe/?hl=en
+[instagram]: https://www.instagram.com/omfgitshaider/?hl=en
 [linkedin]: https://www.linkedin.com/in/syed-vevo/
 [discord]: https://discordapp.com/users/466589530754121739
