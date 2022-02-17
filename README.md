@@ -1,24 +1,15 @@
 ### Hi there, No3 here - aka Syed Naqvi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
 
-[![Discord](https://img.shields.io/website?label=No3Mc&style=for-the-badge&url=https%3A%2F%2Fchttps://discordapp.com/users/466589530754121739)](https://discordapp.com/users/466589530754121739)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Derp_Rulez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Derp_Rulez)
+📢 Nominate ([@No3Mc](https://github.com/No3Mc)) as **[GitHub Star](https://stars.github.com/nominate)**.
 
-## I'm a Student, Gamer, Developer, and PenTester!!
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Haid3r.VEVO/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Derp_Rulez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-vevo/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKAVnPG_6U-CaHtC4pS6F0g)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Syed+Naqvi+Here;An+Open-Source+Contributor;I+love+programming+and+pen-testing;I+Study+At+De+Montfort+University!;It+was+nice+to+meet+you...)](https://git.io/typing-svg)
 
 - 🦾 Active Javascript, HTML, PHP, Python, and C# Developer
 - 📕 Currently working on University Projects.
 - ⛏ Collaborating 24/7
 - 🧐 2022 Goals: Contribute more.
-
-### Connect with me:
-
-
-[<img align="left" alt="No3Mc | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="No3Mc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="No3Mc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="No3Mc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
