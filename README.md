@@ -1,4 +1,4 @@
-### Hi there, No3 here - aka Syed Naqvi 👋 
+### Hi there, No3 here - aka Syed Naqvi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
 
 [![Discord](https://img.shields.io/website?label=No3Mc&style=for-the-badge&url=https%3A%2F%2Fchttps://discordapp.com/users/466589530754121739)](https://discordapp.com/users/466589530754121739)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Derp_Rulez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Derp_Rulez)
