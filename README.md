@@ -1,9 +1,10 @@
 ### Hi there, No3 here - aka Syed Naqvi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
 📢 Nominate ([@No3Mc](https://github.com/No3Mc)) as **[GitHub Star](https://stars.github.com/nominate)**.
 
+
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Derp_Rulez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Derp_Rulez) -->
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ziy987tfsos92gj75e8r7cyt4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ziy987tfsos92gj75e8r7cyt4&redirect=true)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Haid3r.VEVO/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Derp_Rulez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-vevo/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKAVnPG_6U-CaHtC4pS6F0g)
 
@@ -36,6 +37,9 @@
 
 <br />
 <br />
+
+
+
 
 ---
 <!-- 
