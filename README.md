@@ -8,7 +8,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Haid3r.VEVO/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Derp_Rulez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-vevo/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKAVnPG_6U-CaHtC4pS6F0g)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Syed+Naqvi+Here;An+Open-Source+Contributor;I+love+programming+and+pen-testing;I+Study+At+De+Montfort+University!;It+was+nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Syed+Naqvi+Here;An+Open-Source+Contributor;I+love+programming+and+pen-testing;I+Study+At+De+Montfort+University!;It+was+nice+to+meet+you...)](https://github.com/No3Mc)
 
 
 [![Discord](https://img.shields.io/website?label=No3Mc&style=for-the-badge&url=https%3A%2F%2Fchttps://discordapp.com/users/466589530754121739)](https://discordapp.com/users/466589530754121739)
