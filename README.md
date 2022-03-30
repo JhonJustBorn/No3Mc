@@ -13,9 +13,9 @@
 
 [![Discord](https://img.shields.io/website?label=No3Mc&style=for-the-badge&url=https%3A%2F%2Fchttps://discordapp.com/users/466589530754121739)](https://discordapp.com/users/466589530754121739)
 
-- 🦾 Active Javascript, HTML, PHP, Python, and C# Developer
+- 🦾 Active Javascript, HTML, PHP, Python, and C# Developer.
 - 📕 Currently working on University Projects.
-- ⛏ Collaborating 24/7
+- ⛏ Collaborating 24/7.
 - 🧐 2022 Goals: Contribute more.
 
 ### Languages and Tools:
